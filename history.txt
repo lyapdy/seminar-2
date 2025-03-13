@@ -124,3 +124,65 @@ history > C:\Users\User\Desktop\git_advanced\hist
 history > C:\Users\User\Desktop\git_advanced\hist.md
 history -w ~/history.txt
 history -w ~/Desktop/git_advanced/git-advanced-s2/history.txt
+git blame index.html
+git log
+git checkout -b 777-issue
+git revert d014a17ca049ad5389484b1cf29e695ab7d36dcf
+git log
+git diff 8897d25c3fd2a037185a5e518b32e931b2a3161b
+git remote -v
+git push -u origin/777-issue
+git status
+git push -u origin 777-issue
+git blame main.js
+git log
+git diff main.js fe4e2639663f50c652dc7dfcae7c715bba3e87f8
+git diff fe4e2639663f50c652dc7dfcae7c715bba3e87f8 main.js
+git diff 560a30066a37aff0f5d5badcf11304744dde74b5 main.js
+git checkout -b count-words
+git revert 560a30066a37aff0f5d5badcf11304744dde74b5
+git log
+git revert --hard 00021c265a88ce48505f6c2cd86929a24e3ab18d
+git reset --hard 00021c265a88ce48505f6c2cd86929a24e3ab18d
+git diff c7e2f247eee7e5bca2113524d475f305dc603ca3 main.js
+git diff c7e2f247eee7e5bca2113524d475f305dc603ca3 560a30066a37aff0f5d5badcf11304744dde74b5
+git status
+git revert 560a30066a37aff0f5d5badcf11304744dde74b5
+git revert c7e2f247eee7e5bca2113524d475f305dc603ca3
+more main.js
+git push -u count-words
+git status
+git push -u count-words
+git push -u count-words
+git status
+more main.js
+git more main.js
+git push -u origin count-words
+git checkout master
+git branch -a
+git merge 777-issue
+git merge count-words
+git push -u origin master
+ll
+cd logs/
+ll
+ls -la
+git status
+cd ..
+git status
+cd logs/
+ls -la
+rm access.log
+rm error.log
+cd ../
+touch .gitignore
+git status
+git commit -m
+git add .
+git commit -m 'logs deleted and ignored'
+git status
+git status
+git push -u origin master
+git rm -cached logs/error.log
+git rm --cached logs/error.log
+history -w ~/Desktop/git_advanced/git-advanced-s2/history.txt
