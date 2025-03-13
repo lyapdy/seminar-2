@@ -1,0 +1,126 @@
+git config --global user.name "lyapdy"
+git config --global user.name "danillyapunov"
+git config --global user.email "danillyapunov@yandex.ru"
+git config --global --list
+git config --gloabl core.autocrlf true
+git config --global core.autocrlf true
+git config --global core.safecrlf warn
+git config --global core.quotepath off
+git config --global --list
+git config --global init.defaultBranch main
+git help -g
+git help config
+git init
+git add .
+git commit -m "Initial commit"
+git remote add origin https://gitverse.ru/danillyapunov/GB_Algorithms
+git push -u origin master
+git push -u origin master
+git push -u origin master
+git push -u origin master
+git pull origin master
+git init
+git clone https://gitverse.ru/danillyapunov/GB_Algorithms.git
+git clone ssh://git@gitverse.ru:2222/danillyapunov/GB_Algorithms.git
+git lone https://gitverse.ru/danillyapunov/GB_Algorithms.git
+git lcone //gitverse.ru/danillyapunov/GB_Algorithms.git
+git clone //gitverse.ru/danillyapunov/GB_Algorithms.git
+git clone https://gitverse.ru/danillyapunov/GB_Algorithms.git
+git init
+git pull https://gitverse.ru/danillyapunov/Paradigms.git
+git pull //gitverse.ru/danillyapunov/Paradigms.git
+git pull https://gitverse.ru/danillyapunov/Paradigms.git
+git pull https://gitverse.ru/danillyapunov/Paradigms.git
+git pull //gitverse.ru/danillyapunov/Paradigms.git
+cd C:\users
+ls
+cd Desktop
+ls
+git clone https://gitverse.ru/danillyapunov/Paradigms.git
+git add .
+ls
+cd Paradigms
+git add .
+ls
+git commit -m "Initial Commit"
+git remote add origin  https://gitverse.ru/danillyapunov/Paradigms.git
+git push -u origin master
+git clone  https://gitverse.ru/danillyapunov/Object_oriented_programming_cpp_318
+git clone  https://gitverse.ru/danillyapunov/Object_oriented_programming_cpp_318.git
+git clone //gitverse.ru/danillyapunov/Object_oriented_programming_cpp_318.git
+git clone https://gitverse.ru/danillyapunov/Object_oriented_programming_cpp_318.git
+git add .
+git commit -m "First commit"
+git push -u origin master
+git add .
+git commit -m "Check commit"
+git push -u origin master
+git config --global gui.encoding utf-8
+git commit -m "Checking"
+git push -u origin master
+git add .
+git commit -u "Committing"
+git commit -m "Committing"
+git add .
+git commit -m "Comti"
+git add .
+git commit -m "proba"
+git push -u origin master
+git add .
+git commit -m "Initial"
+git push -u origin master
+git pull https://gitverse.ru/danillyapunov/Object_oriented_programming_cpp_318.git
+git pull //gitverse.ru/danillyapunov/Object_oriented_programming_cpp_318.git
+git pull https://gitverse.ru/danillyapunov/Object_oriented_programming_cpp_318.git
+git pclone https://gitverse.ru/danillyapunov/Object_oriented_programming_cpp_318.git
+git clone https://gitverse.ru/danillyapunov/Object_oriented_programming_cpp_318.git
+git clone //gitverse.ru/danillyapunov/Object_oriented_programming_cpp_318.git
+git clone https://gitverse.ru/danillyapunov/Object_oriented_programming_cpp_318.git
+git init
+git clone https://gitverse.ru/danillyapunov/Object_oriented_programming_cpp_318.git
+git add .
+git commit -m "Init"
+git push -u origin master
+git clone https://gitverse.ru/danillyapunov/Object_oriented_programming_cpp_318.git
+git clone //gitverse.ru/danillyapunov/Object_oriented_programming_cpp_318.git
+git init
+git commit -m "com"
+git add .
+git init
+git clone https://gitverse.ru/danillyapunov/Object_oriented_programming_cpp_318.git
+git commit -m "Help"
+git add .
+git commit -m "commit"
+git push -u origin master
+git push -u origin master
+git clone https://gitverse.ru/danillyapunov/Object_oriented_programming_cpp_318.git
+git commit -m "commit"
+git push -u origin master
+git add .
+git commit -m "com"
+git push -u origin master
+git push -u origin main
+git add .
+git commit -m "Commit"
+git push -u origin master
+git status
+git add .
+git commit -m 'lab2 added'
+git push -u origin master
+git clone https://github.com/sortedmap/git-advanced-s2
+cd git_advanced
+ls
+cd git-advanced-s2
+ls
+git remote remove origin
+git remote -v
+git remote add origin https://github.com/lyapdy/seminar-2.git
+git push -u origin master
+git log
+git diff daaa3d32ff98ffad7321c14815438b28a7583529 8897d25c3fd2a037185a5e518b32e931b2a3161b
+git reflog
+history
+history > C:\Users\User\Desktop\git_advanced\hist
+history > C:\Users\User\Desktop\git_advanced\hist.md
+history -w ~/history.txt
+history -w ~/Desktop/git_advanced/git-advanced-s2/history.txt
